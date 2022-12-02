@@ -1,0 +1,6 @@
+Apellido: Feldick
+Nombre:   Gaston
+Fecha de operacion: 2304
+deposito: 3000
+deposito: 3000
+extraccion: 6000
